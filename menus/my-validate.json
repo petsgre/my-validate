@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-validate",
+        "command": "my-validate:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-validate",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-validate:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
