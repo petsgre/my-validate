@@ -2,11 +2,8 @@
   "name": "my-validate",
   "main": "./lib/my-validate",
   "version": "1.2.0",
-  "description": "A short description of your package",
+  "description": "自定义插件，检查注释是否规范",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "my-validate:toggle"
-  },
   "repository": "https://github.com/petsgre/my-validate",
   "license": "MIT",
   "engines": {
