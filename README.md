@@ -12,4 +12,4 @@
 
 学习了atom如何制作插件以及中间的一些坑点。
 
-博客地址：[atom插件制作](https://blog.csdn.net/grepets/article/details/82148246)
+博客地址：[atom插件制作](https://blog.csdn.net/grepets/article/details/82148235)
